@@ -8,7 +8,7 @@
       "name" : "ids",
       "type" : "string",
       "value" : "",
-      "title" : "list of ids"
+      "title" : "List of ids"
     }
   ],
   "description": "Checks whether a user typed correct id in a field",
